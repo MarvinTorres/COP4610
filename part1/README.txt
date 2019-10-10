@@ -17,8 +17,3 @@ Usage:
 acc <number of threads>
 
 The number of threads must be a non-negative integer.
-
-Additional Information:
-
-Results1.txt through Results5.txt show the results of unsynchronized acc with 1 thread up to 5.
-Results6.txt through Results10.txt show the results of synchronized acc with 1 thread up to 5.
